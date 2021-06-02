@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccd5c7ba-517f-42d1-918c-67d178ca054a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1rpmK0qV3JRvZJuGirwsl9YDmOC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build GoBpTree">
+    <configuration name="go build GoBpTree" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoBpTree" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="GoBpTree" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFind in GoBpTree" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="GoBpTree" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="GoBpTree" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestFind\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInsert in GoBpTree" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="GoBpTree" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="GoBpTree" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestInsert\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInsertNilRoot in GoBpTree" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="GoBpTree" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="GoBpTree" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestInsertNilRoot\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTree_PrintTree in GoBpTree" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="GoBpTree" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="GoBpTree" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestTree_PrintTree\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build GoBpTree" />
+        <item itemvalue="Go Test.TestTree_PrintTree in GoBpTree" />
+        <item itemvalue="Go Test.TestFind in GoBpTree" />
+        <item itemvalue="Go Test.TestInsert in GoBpTree" />
+        <item itemvalue="Go Test.TestInsertNilRoot in GoBpTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2606" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620997115912">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2606" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620997115912" />
+    <state width="1877" height="636" key="GridCell.Tab.0.bottom" timestamp="1621061525431">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="636" key="GridCell.Tab.0.bottom/0.40.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621061525431" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.40.1280.680/1920.40.1920.1040@1920.40.1920.1040" timestamp="1619705528081" />
+    <state width="1877" height="636" key="GridCell.Tab.0.center" timestamp="1621061525431">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="636" key="GridCell.Tab.0.center/0.40.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621061525431" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.40.1280.680/1920.40.1920.1040@1920.40.1920.1040" timestamp="1619705528080" />
+    <state width="1877" height="636" key="GridCell.Tab.0.left" timestamp="1621061525431">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="636" key="GridCell.Tab.0.left/0.40.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621061525431" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.40.1280.680/1920.40.1920.1040@1920.40.1920.1040" timestamp="1619705528079" />
+    <state width="1877" height="636" key="GridCell.Tab.0.right" timestamp="1621061525431">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="636" key="GridCell.Tab.0.right/0.40.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621061525431" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.40.1280.680/1920.40.1920.1040@1920.40.1920.1040" timestamp="1619705528081" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1621047392502">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.40.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621047392502" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.40.1280.680/1920.40.1920.1040@1920.40.1920.1040" timestamp="1619705528081" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1621047392502">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.40.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621047392502" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.40.1280.680/1920.40.1920.1040@1920.40.1920.1040" timestamp="1619705528081" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1621047392502">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.40.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621047392502" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.40.1280.680/1920.40.1920.1040@1920.40.1920.1040" timestamp="1619705528081" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1621047392502">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.40.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621047392502" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.40.1280.680/1920.40.1920.1040@1920.40.1920.1040" timestamp="1619705528081" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1621047073570">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.40.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621047073570" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Handler.go</url>
+          <line>173</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Handler.go</url>
+          <line>203</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="dist" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
